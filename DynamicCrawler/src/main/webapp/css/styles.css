@@ -1,0 +1,18 @@
+@CHARSET "UTF-8";
+#table {
+	width: 100%;
+}
+
+.url {
+	margin-left: 15px !important;
+} 
+
+.snippet {
+	font-size: 12px;
+}
+
+.desc {
+	font-weight: bold;
+	font-size: 14px;
+	font-style: italic;
+}
